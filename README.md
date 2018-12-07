@@ -11,7 +11,6 @@ Requirements<br/>
 
 This is a demo flask app where you can take a picture in a mobile browser and send the pic to Google's ML Vision API for label and text extraction.
 
-Feel free to fork, and even replace bike share data with other data feeds of your own. 
 <br/>
 
 ### How does this app work?
