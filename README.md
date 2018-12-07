@@ -28,7 +28,7 @@ At a high level, this app does the following:
 
 Example of the Google ML Vision API successfully labeling a laptop.
 <img src="https://raw.githubusercontent.com/garethcull/ml-camera/master/static/img/label_image.png" width="400" />
-
+<br/>
 Example of the Google ML API extracting text off of a keyboard.
 <img src="https://raw.githubusercontent.com/garethcull/ml-camera/master/static/img/text_extraction.png" width="400" />
 
