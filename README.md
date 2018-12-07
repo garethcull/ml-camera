@@ -28,7 +28,7 @@ At a high level, this app does the following:
 Example of the Google ML Vision API successfully labeling a laptop. In addition to the label, a confidence score is also returned. In the case below, Google is 95% confident that the image is a laptop. <br/><br/>
 <img src="https://raw.githubusercontent.com/garethcull/ml-camera/master/static/img/label_image.png" width="400" />
 <br/><br/>
-Example of the Google ML API extracting text off of a keyboard.<br/>
+Example of the Google ML Vision API extracting text off of a keyboard.<br/><br/>
 <img src="https://raw.githubusercontent.com/garethcull/ml-camera/master/static/img/text_extraction.png" width="400" />
 
 
