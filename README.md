@@ -20,7 +20,7 @@ At a high level, this app does the following:
 1. Asks the user for access to their phone's camera (Front or Back)
 2. Once the user grants access, video starts streaming.
 3. The user can choose whether they want to detect what an image is or extract text from an image by clicking on the appropriate link.
-4. The image is then sent server side along with the image service to be used. 
+4. The image is then sent server side along with the image service to be used (text extraction or label). 
 5. After sending the image to the Vision API, it returns either a label or text that was extracted from the image and then sends this information back to the client. 
 
 ### What does this app look like?
