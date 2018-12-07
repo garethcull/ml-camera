@@ -66,7 +66,6 @@ Here are some links that I found very useful with code examples.
 - SocketIO: https://flask-socketio.readthedocs.io/en/latest/
 - Google Cloud Vision API: https://cloud.google.com/vision/
 - How to build a camera: https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/Camera_API/Introduction
-- How to Create a Local Server on your Mobile: http://neilkarwasra.blogspot.com/2017/08/how-to-install-and-run-python-flask-web_15.html
 
 
 
